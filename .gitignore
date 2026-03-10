@@ -1,13 +1,24 @@
-# Database
+# --- Security: API Keys & Secrets ---
+.env
+.streamlit/secrets.toml
+
+# --- Database: Local Storage ---
 smart_vault.db
 
-# Python
+# --- Python: System & Cache ---
 __pycache__/
 *.py[cod]
+*$py.class
 .venv/
+venv/
+ENV/
+env/
+.pytest_cache/
 
-# Environment/API Keys
-.env
+# --- OS: System Files ---
+.DS_Store
+Thumbs.db
 
-# Streamlit
-.streamlit/
+# --- Project Specific ---
+# Ignore locally uploaded testing images if you have an uploads folder
+uploads/
