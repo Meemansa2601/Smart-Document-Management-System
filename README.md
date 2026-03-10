@@ -93,7 +93,7 @@ Follow these steps if you want to run the project on your system.
 
  cd SmartDMS
 
-3. Setup the Backend
+2. Setup the Backend
 
 Install Python dependencies:
 
@@ -151,6 +151,7 @@ Advanced analytics and expense prediction
 License
 
 This project is intended for educational and research purposes.
+
 
 
 
