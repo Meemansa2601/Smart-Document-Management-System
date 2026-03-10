@@ -1,0 +1,13 @@
+# Database
+smart_vault.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment/API Keys
+.env
+
+# Streamlit
+.streamlit/
