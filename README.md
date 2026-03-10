@@ -89,9 +89,9 @@ How to Run the Project Locally
 Follow these steps if you want to run the project on your system.
 
 1. Clone the Repository
-git clone https://github.com/your-username/smartdms.git
+  https://github.com/Meemansa2601/Smart-Document-Management-System
 cd smartdms
-2. Setup the Backend
+3. Setup the Backend
 
 Install Python dependencies:
 
@@ -147,3 +147,4 @@ Advanced analytics and expense prediction
 License
 
 This project is intended for educational and research purposes.
+
