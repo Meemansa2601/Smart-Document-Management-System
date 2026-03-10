@@ -90,8 +90,9 @@ Follow these steps if you want to run the project on your system.
 
 1. Clone the Repository
   https://github.com/Meemansa2601/Smart-Document-Management-System
-cd SmartDMS
-3. Setup the Backend
+  cd SmartDMS
+
+2. Setup the Backend
 
 Install Python dependencies:
 
@@ -109,6 +110,8 @@ uvicorn main:app --reload
 The backend will run at:
 
 http://127.0.0.1:8000
+
+
 3. Setup the Frontend
 
 Open a new terminal and run:
@@ -147,5 +150,6 @@ Advanced analytics and expense prediction
 License
 
 This project is intended for educational and research purposes.
+
 
 
